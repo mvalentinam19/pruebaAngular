@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "crud-user-c5fb1": {
+      "hosting": {
+        "crud-user": [
+          "crud-user-c5fb1"
+        ]
+      }
+    }
+  }
+}
